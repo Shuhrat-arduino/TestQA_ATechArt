@@ -1,0 +1,16 @@
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\bin\Debug\net5.0\TestQA_ATechArt.exe
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\bin\Debug\net5.0\TestQA_ATechArt.deps.json
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\bin\Debug\net5.0\TestQA_ATechArt.runtimeconfig.json
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\bin\Debug\net5.0\TestQA_ATechArt.runtimeconfig.dev.json
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\bin\Debug\net5.0\TestQA_ATechArt.dll
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\bin\Debug\net5.0\TestQA_ATechArt.pdb
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.csproj.AssemblyReference.cache
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.AssemblyInfoInputs.cache
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.AssemblyInfo.cs
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.csproj.CoreCompileInputs.cache
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.dll
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\refint\TestQA_ATechArt.dll
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.pdb
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\TestQA_ATechArt.genruntimeconfig.cache
+E:\C++VS2019\C#Console\TestQA_ATechArt\TestQA_ATechArt\obj\Debug\net5.0\ref\TestQA_ATechArt.dll
